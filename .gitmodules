@@ -1,0 +1,6 @@
+[submodule "basic-node-service"]
+	path = basic-node-service
+	url = https://github.com/mfigares/basic-node-service
+[submodule "basic-react-service"]
+	path = basic-react-service
+	url = https://github.com/mfigares/basic-react-service
